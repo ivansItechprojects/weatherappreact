@@ -39,6 +39,6 @@
           newTemperature.style.display = "none";
         }
       }
-    }, 9000);
+    }, 10000);
   };
 })();
