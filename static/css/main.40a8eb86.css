@@ -497,7 +497,7 @@ body {
     }
     .bubble:hover~.sun {
         top: 24rem;
-        left: 9%
+        left: 9% !important;
     }
     .line-1 {
         font-size: 2em
