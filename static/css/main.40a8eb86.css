@@ -499,11 +499,11 @@ body {
     }
     .sun {
         top: 25rem;
-        left: 10%
+        left: 20% !important;
     }
     .bubble:hover~.sun {
         top: 24rem;
-        left: 9% !important;
+        left: 19% !important;
     }
     .line-1 {
         font-size: 2em
