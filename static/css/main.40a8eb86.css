@@ -451,7 +451,7 @@ body {
     }
     .bubble:hover~.sun {
         top: 24rem;
-        left: 22%
+        left: 20% !important;
     }
     .line-1 {
         display: none;
