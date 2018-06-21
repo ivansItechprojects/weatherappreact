@@ -423,7 +423,8 @@ body {
         left: 29% !important;
     }
     .line-1 {
-        display: none
+            position: relative;
+    margin-right: 32%;
     }
 }
 
